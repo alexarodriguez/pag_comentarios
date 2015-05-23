@@ -1,0 +1,82 @@
+/*anotacion*/
+
+body{
+background-image: url("./img/black2.png");
+}
+
+.cabezote{
+	background-image: url("./img/img2.jpg");
+	height: 200px; 
+	position: center;
+}
+
+.wrap{
+	padding: 0;
+    width :75%;
+    min-width:600px;
+    background-image: url("./img/black2.png");
+    margin: auto;
+}
+
+h4{
+	font-size: 25px;
+	color: white;
+	margin-left: 300px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+h3{
+	color: white;
+}
+p{
+	color: black;
+	font-size: 15px;
+}
+textarea{
+	width: 400px;
+	height: 70px;
+}
+#megusta{
+margin-right: 100px;
+}
+#comentario{
+	margin-left: 100px;
+}
+#publicacomen{
+	height: 500px;
+	background-image: url("./img/claro1.png");
+}
+#name{
+	font-size: 20px;
+	font-weight: 2px;
+}
+footer {
+	background-image: url("./img/black1.png");
+	height: 30px; 
+	position: center;
+}
+
+#footer{
+	color: white;
+	font-size: 18px;
+	margin-left: 400px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
